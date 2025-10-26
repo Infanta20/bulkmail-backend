@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "build": "vite build"
-  },
+ "scripts": {
+  "build": "echo 'Nothing to build for backend'"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
